@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2022-10-03T14:34:20.446Z" agent="5.0 (Windows)" etag="EBLSYGLE57sQqivbuNyg" version="20.3.7" type="gitlab">
+  <diagram id="OizPc5kIa2rapTU7Ewu1" name="Page-1">
+    <mxGraphModel dx="981" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N-WjLULFLGmGP5MBClY7-1" value="&lt;div&gt;Réalisation d&#39;un spectre d&#39;absorbance &lt;b&gt;A = f(λ)&lt;/b&gt;&lt;/div&gt;du soluté absorbant&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=middle;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="168.75" width="140" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N-WjLULFLGmGP5MBClY7-1" target="N-WjLULFLGmGP5MBClY7-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="290" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-3" value="Identification de la longueur d&#39;onde du maximum d&#39;absorbance&lt;b&gt; λ&lt;sub&gt;max &lt;/sub&gt;&lt;/b&gt;du soluté afin de régler le spectrophotomètre&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="295" y="147.5" width="180" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N-WjLULFLGmGP5MBClY7-3" target="N-WjLULFLGmGP5MBClY7-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="490" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-5" value="Réalisation d&#39;une gamme étalon avec des solutions de concentrations (&lt;b&gt;C&lt;/b&gt;) connues" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="760" y="160" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N-WjLULFLGmGP5MBClY7-5" target="N-WjLULFLGmGP5MBClY7-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="240" as="sourcePoint" />
+            <mxPoint x="640" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-7" value="Mesure des absorbances (&lt;b&gt;A&lt;/b&gt;) des solutions de la gamme étalon" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="560" y="165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="N-WjLULFLGmGP5MBClY7-7" target="N-WjLULFLGmGP5MBClY7-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="290" as="sourcePoint" />
+            <mxPoint x="630" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-9" value="&lt;div&gt;Tracé d&#39;un nuage de points représentant &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;A = f(C)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="560" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="N-WjLULFLGmGP5MBClY7-9" target="N-WjLULFLGmGP5MBClY7-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="638" y="400" as="sourcePoint" />
+            <mxPoint x="372" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-11" value="&lt;div&gt;Insertion d&#39;une courbe de tendance du type:&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;b&gt;A = a x C + b&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="320" y="295" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="N-WjLULFLGmGP5MBClY7-11" target="N-WjLULFLGmGP5MBClY7-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="420" as="sourcePoint" />
+            <mxPoint x="160" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-13" value="Mesure de l&#39; absorbance de la solution inconnue &lt;b&gt;A&lt;sub&gt;inc&lt;/sub&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="60" y="440" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N-WjLULFLGmGP5MBClY7-13" target="N-WjLULFLGmGP5MBClY7-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="469.99999999999994" as="sourcePoint" />
+            <mxPoint x="206" y="556.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-WjLULFLGmGP5MBClY7-15" value="Détermination de la concentration de la solution inconnue &lt;b&gt;C&lt;sub&gt;inc&lt;/sub&gt;&lt;/b&gt; avec l&#39;équation de la courbe de tendance." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="440" width="190" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
