@@ -75,10 +75,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PU5bH5FZVr4U7lg9v13t-4" value="&lt;b&gt;S&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1.5748;" vertex="1" parent="1">
+        <mxCell id="PU5bH5FZVr4U7lg9v13t-4" value="&lt;span&gt;S&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1.5748;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-629" y="-310" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PU5bH5FZVr4U7lg9v13t-5" value="&lt;b&gt;E&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1.5748;" vertex="1" parent="1">
+        <mxCell id="PU5bH5FZVr4U7lg9v13t-5" value="&lt;span&gt;&lt;span&gt;E&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1.5748;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-340" y="-111" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PU5bH5FZVr4U7lg9v13t-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
