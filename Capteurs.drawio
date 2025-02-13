@@ -202,7 +202,7 @@
         <mxCell id="L7ox8_W7ohmhCN1k15xQ-1" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-90;size=0.25;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="300" y="259.63" width="120.25" height="156.5" as="geometry" />
         </mxCell>
-        <mxCell id="L7ox8_W7ohmhCN1k15xQ-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Capteur&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=3;fontColor=light-dark(#616161, #ededed);" vertex="1" parent="1">
+        <mxCell id="L7ox8_W7ohmhCN1k15xQ-2" value="&lt;font&gt;Capteur&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=3;fontColor=light-dark(#616161, #ededed);fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="307" y="316.25" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U7u1tP0OMLRbHEGla-BV-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;endWidth=21;endSize=9.13;width=15;" edge="1" parent="1">
