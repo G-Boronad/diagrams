@@ -199,7 +199,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L7ox8_W7ohmhCN1k15xQ-1" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-90;size=0.25;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="L7ox8_W7ohmhCN1k15xQ-1" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-90;size=0.25;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="300" y="259.63" width="120.25" height="156.5" as="geometry" />
         </mxCell>
         <mxCell id="L7ox8_W7ohmhCN1k15xQ-2" value="&lt;font&gt;Capteur&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=3;fontColor=light-dark(#616161, #ededed);fontSize=20;" parent="1" vertex="1">
