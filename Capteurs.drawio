@@ -156,10 +156,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8uV8N9RaXLjBX0D3lIJ--3" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;size=40;" parent="1" vertex="1">
-          <mxGeometry x="300" y="260" width="200" height="138.25" as="geometry" />
+          <mxGeometry x="300" y="257.13" width="200" height="138.25" as="geometry" />
         </mxCell>
         <mxCell id="8uV8N9RaXLjBX0D3lIJ--4" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-90;size=0.27906474820143856;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="180.54" y="259.79" width="137.94" height="139" as="geometry" />
+          <mxGeometry x="180.54" y="255.72000000000003" width="137.94" height="139" as="geometry" />
         </mxCell>
         <mxCell id="8uV8N9RaXLjBX0D3lIJ--5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Capteur&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=3;fontColor=light-dark(#616161, #ededed);" parent="1" vertex="1">
           <mxGeometry x="190" y="305.21999999999997" width="90" height="40" as="geometry" />
