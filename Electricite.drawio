@@ -1682,7 +1682,7 @@
           <mxGeometry x="849.7970384031242" y="633.9946138803527" width="36" height="32" as="geometry" />
         </mxCell>
         <mxCell id="YktotMtlLkCZkVK1YlpF-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="791.65" y="630" width="147" height="110.21" as="geometry" />
+          <mxGeometry x="790" y="628" width="224" height="99" as="geometry" />
         </mxCell>
         <mxCell id="YktotMtlLkCZkVK1YlpF-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="816.5" y="590.9899999999999" width="100" height="80" as="geometry" />
@@ -1693,17 +1693,26 @@
         <mxCell id="YktotMtlLkCZkVK1YlpF-10" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;rotation=0;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="816.5044434801475" y="661.7955505447578" width="97.2879149490128" height="19.20181985074031" as="geometry" />
         </mxCell>
-        <mxCell id="YktotMtlLkCZkVK1YlpF-30" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;strokeWidth=2;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="837" y="719.47" width="44" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="YktotMtlLkCZkVK1YlpF-31" value="6V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="842.5" y="728.47" width="33" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="YktotMtlLkCZkVK1YlpF-32" value="R&lt;sub&gt;2&lt;/sub&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="842.4970384031243" y="655.3946138803527" width="36" height="32" as="geometry" />
         </mxCell>
         <mxCell id="YktotMtlLkCZkVK1YlpF-6" value="R&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="850.1470384031243" y="576.3946138803527" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YktotMtlLkCZkVK1YlpF-33" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;rotation=0;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="916.7944434801475" y="617.9955505447579" width="97.2879149490128" height="19.20181985074031" as="geometry" />
+        </mxCell>
+        <mxCell id="YktotMtlLkCZkVK1YlpF-34" value="R&lt;sub&gt;3&lt;/sub&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="946.4370384031242" y="612.5946138803528" width="36" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="YktotMtlLkCZkVK1YlpF-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="872.79" y="706" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="YktotMtlLkCZkVK1YlpF-30" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;strokeWidth=2;rotation=-90;" vertex="1" parent="YktotMtlLkCZkVK1YlpF-35">
+          <mxGeometry width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="YktotMtlLkCZkVK1YlpF-31" value="6V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YktotMtlLkCZkVK1YlpF-35">
+          <mxGeometry x="5.5" y="9" width="33" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
