@@ -294,7 +294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ULuR6HlVlgtpmmWZd9Yj" name="Page-2">
-    <mxGraphModel dx="3152" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3074" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -355,10 +355,10 @@
         <mxCell id="ys6ubAtOb9Ft82EccQLx-20" value="Test de Mac Némar" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-679.9957562076748" y="422.0915114873035" width="156.41083521444696" height="48.367593712212816" as="geometry" />
         </mxCell>
-        <mxCell id="ys6ubAtOb9Ft82EccQLx-22" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Type des variables d&#39;intérêt ?&lt;/font&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="ys6ubAtOb9Ft82EccQLx-22" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Type de la variable expliquée?&lt;/font&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="-826.9968171557562" y="110.00139056831922" width="204.53724604966143" height="108.82708585247883" as="geometry" />
         </mxCell>
-        <mxCell id="ys6ubAtOb9Ft82EccQLx-23" value="Quantitatives" style="endArrow=classic;html=1;rounded=0;exitX=0.082;exitY=0.941;exitDx=0;exitDy=0;entryX=0.748;entryY=0.099;entryDx=0;entryDy=0;fontStyle=1;fontSize=13;exitPerimeter=0;entryPerimeter=0;" parent="1" source="ys6ubAtOb9Ft82EccQLx-22" target="ys6ubAtOb9Ft82EccQLx-6" edge="1">
+        <mxCell id="ys6ubAtOb9Ft82EccQLx-23" value="Quantitative" style="endArrow=classic;html=1;rounded=0;exitX=0.082;exitY=0.941;exitDx=0;exitDy=0;entryX=0.748;entryY=0.099;entryDx=0;entryDy=0;fontStyle=1;fontSize=13;exitPerimeter=0;entryPerimeter=0;" parent="1" source="ys6ubAtOb9Ft82EccQLx-22" target="ys6ubAtOb9Ft82EccQLx-6" edge="1">
           <mxGeometry x="-0.0012" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-735.6772009029345" y="299.9758162031439" as="sourcePoint" />
             <mxPoint x="-916.1512415349886" y="312.06771463119713" as="targetPoint" />
@@ -371,7 +371,7 @@
             <mxPoint x="-328.6027088036117" y="439.71100362756954" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ys6ubAtOb9Ft82EccQLx-25" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Qualitatives&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" parent="ys6ubAtOb9Ft82EccQLx-24" vertex="1" connectable="0">
+        <mxCell id="ys6ubAtOb9Ft82EccQLx-25" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Qualitative&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" parent="ys6ubAtOb9Ft82EccQLx-24" vertex="1" connectable="0">
           <mxGeometry x="-0.1583" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
