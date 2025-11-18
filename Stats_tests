@@ -209,7 +209,7 @@
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-47" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
           <mxGeometry width="565.4853273137699" height="241.8379685610641" as="geometry" />
         </mxCell>
-        <mxCell id="4rcao-h3MEsoYAkI_Hk_-48" value="Homoscédasticité&lt;div&gt;Même variance ?&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
+        <mxCell id="4rcao-h3MEsoYAkI_Hk_-48" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Même variance?&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;(homoscédastisticité)&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
           <mxGeometry x="24.063205417607225" y="12.091898428053204" width="144.37923250564336" height="72.55139056831923" as="geometry" />
         </mxCell>
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-49" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Test F de Fisher&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;fontSize=11;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
