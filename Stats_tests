@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.0.2" pages="2">
   <diagram id="DwslyujZyHNnuV73WAQY" name="Page-1">
-    <mxGraphModel dx="3161" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3503" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-1" value="Combien de données?" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="-275.66365688487576" y="355.06771463119713" width="108.28442437923252" height="96.73518742442563" as="geometry" />
         </mxCell>
-        <mxCell id="4rcao-h3MEsoYAkI_Hk_-2" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Test d&#39;indépendance&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;(homogénéité) du Chi²&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="4rcao-h3MEsoYAkI_Hk_-2" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Test d&#39;indépendance&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;du Chi²&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="-395.97968397291174" y="530.4002418379686" width="156.41083521444696" height="72.55139056831923" as="geometry" />
         </mxCell>
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-3" value="Test exact de Ficher" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=2;dashed=1;fontSize=11;" parent="1" vertex="1">
@@ -212,7 +212,7 @@
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-48" value="Même variance ?" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
           <mxGeometry x="24.063205417607225" y="12.091898428053204" width="144.37923250564336" height="72.55139056831923" as="geometry" />
         </mxCell>
-        <mxCell id="4rcao-h3MEsoYAkI_Hk_-49" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Test F de Fisher&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;conditions: N &amp;gt; 30 et normalité&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;fontSize=11;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
+        <mxCell id="4rcao-h3MEsoYAkI_Hk_-49" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Test F de Fisher&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;fontSize=11;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
           <mxGeometry x="264.6952595936795" y="24.183796856106408" width="276.7268623024831" height="48.367593712212816" as="geometry" />
         </mxCell>
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" parent="4rcao-h3MEsoYAkI_Hk_-46" source="4rcao-h3MEsoYAkI_Hk_-48" target="4rcao-h3MEsoYAkI_Hk_-49" edge="1">
@@ -227,7 +227,7 @@
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-52" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;test de Kolmogorov Smirnov&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;valable pour n&#39;importe quelle loi et aussi les grands échantillons.&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;fontSize=11;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
           <mxGeometry x="276.7268623024831" y="169.28657799274484" width="264.6952595936795" height="60.45949214026602" as="geometry" />
         </mxCell>
-        <mxCell id="4rcao-h3MEsoYAkI_Hk_-53" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Test de Shapiro Wilk&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;condition: N &amp;lt; 50&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;fontSize=11;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
+        <mxCell id="4rcao-h3MEsoYAkI_Hk_-53" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Test de Shapiro Wilk&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;condition: N &amp;lt; 100&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;fontSize=11;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
           <mxGeometry x="276.7268623024831" y="96.73518742442563" width="180.4740406320542" height="48.367593712212816" as="geometry" />
         </mxCell>
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" parent="4rcao-h3MEsoYAkI_Hk_-46" source="4rcao-h3MEsoYAkI_Hk_-51" target="4rcao-h3MEsoYAkI_Hk_-53" edge="1">
