@@ -50,7 +50,7 @@
         </mxCell>
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-11" value="Appariés" style="endArrow=classic;html=1;rounded=0;fontStyle=1;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4rcao-h3MEsoYAkI_Hk_-8" target="4rcao-h3MEsoYAkI_Hk_-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1030" y="480" as="sourcePoint" />
+            <mxPoint x="-1020" y="470" as="sourcePoint" />
             <mxPoint x="-749.7088036117381" y="826.6517533252721" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -84,7 +84,7 @@
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-18" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Test de Wilcoxon à un échantillon&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;(comparaison de la médiane)&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=2;dashed=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="-684.7381489841985" y="494.12454655380895" width="168.4424379232506" height="72.55139056831923" as="geometry" />
         </mxCell>
-        <mxCell id="4rcao-h3MEsoYAkI_Hk_-19" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Même variance?&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;(homoscétastisticité)&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="4rcao-h3MEsoYAkI_Hk_-19" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Même variance?&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;(homoscédastisticité)&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="-1282.7088036117382" y="742.0084643288997" width="156.41083521444696" height="75.57436517533253" as="geometry" />
         </mxCell>
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-20" value="OUI" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=12;" parent="1" source="4rcao-h3MEsoYAkI_Hk_-13" target="4rcao-h3MEsoYAkI_Hk_-19" edge="1">
@@ -209,7 +209,7 @@
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-47" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=10;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
           <mxGeometry width="565.4853273137699" height="241.8379685610641" as="geometry" />
         </mxCell>
-        <mxCell id="4rcao-h3MEsoYAkI_Hk_-48" value="Même variance ?" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
+        <mxCell id="4rcao-h3MEsoYAkI_Hk_-48" value="Homoscédasticité&lt;div&gt;Même variance ?&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
           <mxGeometry x="24.063205417607225" y="12.091898428053204" width="144.37923250564336" height="72.55139056831923" as="geometry" />
         </mxCell>
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-49" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Test F de Fisher&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;fontSize=11;" parent="4rcao-h3MEsoYAkI_Hk_-46" vertex="1">
