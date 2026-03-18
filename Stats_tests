@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.4" pages="2">
   <diagram id="DwslyujZyHNnuV73WAQY" name="Page-1">
-    <mxGraphModel dx="3353" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4137" dy="1115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;fontSize=11;" value="Test de Mac Némar" vertex="1">
           <mxGeometry height="48.367593712212816" width="156.41083521444696" x="-539.1557562076748" y="379.2515114873035" as="geometry" />
         </mxCell>
-        <mxCell id="4rcao-h3MEsoYAkI_Hk_-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Normalité pour chaque échantillon ? &lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;et&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;mêmes variances inter-échantillons&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;(Test de Bartlett)&lt;/div&gt;" vertex="1">
+        <mxCell id="4rcao-h3MEsoYAkI_Hk_-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Normalité pour chaque échantillon ? &lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;et&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;mêmes variances inter-échantillons ?&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;(Test de Bartlett)&lt;/div&gt;" vertex="1">
           <mxGeometry height="133.01" width="220.15" x="-1380.15" y="209.97" as="geometry" />
         </mxCell>
         <mxCell id="4rcao-h3MEsoYAkI_Hk_-36" edge="1" parent="1" source="4rcao-h3MEsoYAkI_Hk_-35" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" target="4rcao-h3MEsoYAkI_Hk_-39" value="NON">
