@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.5.2" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="29.6.6" pages="6">
   <diagram id="3PgItJ6A_8THoUIpkEhh" name="systeme">
     <mxGraphModel dx="1274" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,6 +225,62 @@
         </mxCell>
         <mxCell id="ds9smfLNtajGKo3aJyrc-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="233" y="324" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4auTYbvuU5TvEk8y8JBP" name="Page-6">
+    <mxGraphModel dx="1281" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oeIxhacpS-2oLhnaUtBJ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" value="&lt;div&gt;&lt;b&gt;état 1:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;eau solide&lt;/div&gt;&lt;div&gt;&amp;nbsp;T&lt;sub&gt;1&lt;/sub&gt; = -18°C&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="130" x="220" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="oeIxhacpS-2oLhnaUtBJ-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" value="ΔU ?" vertex="1">
+          <mxGeometry height="30" width="50" x="400" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="oeIxhacpS-2oLhnaUtBJ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" value="&lt;div&gt;&lt;b&gt;état 2:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;eau liquide&lt;/div&gt;&lt;div&gt;T&lt;sub&gt;2&lt;/sub&gt; =&amp;nbsp; 15°C&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="130" x="500" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="oeIxhacpS-2oLhnaUtBJ-4" edge="1" parent="1" source="oeIxhacpS-2oLhnaUtBJ-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1.5;" target="oeIxhacpS-2oLhnaUtBJ-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="300" as="sourcePoint" />
+            <mxPoint x="550" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oeIxhacpS-2oLhnaUtBJ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;dashed=1;" value="&lt;div&gt;&lt;b&gt;état intermédiaire 1:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;eau solide à 0°C&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="130" x="220" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="oeIxhacpS-2oLhnaUtBJ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;dashed=1;" value="&lt;div&gt;&lt;b&gt;état intermédiaire 2:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;eau liquide à 0°C&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="130" x="500" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="oeIxhacpS-2oLhnaUtBJ-7" edge="1" parent="1" source="oeIxhacpS-2oLhnaUtBJ-1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="oeIxhacpS-2oLhnaUtBJ-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="270" as="sourcePoint" />
+            <mxPoint x="510" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oeIxhacpS-2oLhnaUtBJ-8" edge="1" parent="1" source="oeIxhacpS-2oLhnaUtBJ-5" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1.5;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="oeIxhacpS-2oLhnaUtBJ-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="295" y="250" as="sourcePoint" />
+            <mxPoint x="295" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oeIxhacpS-2oLhnaUtBJ-9" edge="1" parent="1" source="oeIxhacpS-2oLhnaUtBJ-6" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1.5;dashed=1;" target="oeIxhacpS-2oLhnaUtBJ-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="365" as="sourcePoint" />
+            <mxPoint x="510" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oeIxhacpS-2oLhnaUtBJ-10" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" value="ΔU&lt;sub&gt;1&lt;/sub&gt; = mc&lt;sub&gt;g&lt;/sub&gt;(0 - T&lt;sub&gt;1&lt;/sub&gt;)" vertex="1">
+          <mxGeometry height="30" width="120" x="160" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="oeIxhacpS-2oLhnaUtBJ-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" value="ΔU&lt;sub&gt;2&lt;/sub&gt; = mL&lt;sub&gt;f&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="380" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="oeIxhacpS-2oLhnaUtBJ-12" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" value="ΔU&lt;sub&gt;3&lt;/sub&gt; = mc&lt;sub&gt;eau&lt;/sub&gt;( T&lt;sub&gt;2&lt;/sub&gt; - 0 )" vertex="1">
+          <mxGeometry height="30" width="140" x="565" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
